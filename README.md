@@ -313,6 +313,8 @@ Metrics used:
 
 ### Linear Regression Model Performance:
 
+| Column Name | Figures |
+|---|---|
 | Mean Absolute Error (MAE) | 1058.77 |
 | Mean Squared Error (MSE) | 1815990.06 |
 | Root Mean Squared Error (RMSE) | 1347.59 |
@@ -320,6 +322,8 @@ Metrics used:
 
 ### Decision Tree Regressor Model Performance:
 
+| Column Name | Figures |
+|---|---|
 | Mean Absolute Error (MAE) | 1640.87 |
 | Mean Squared Error (MSE) | 4247385.83 |
 | Root Mean Squared Error (RMSE) | 2060.92 |
@@ -338,7 +342,7 @@ Based on the customer segmentation and the future spending predictions, here are
 
 *   **Characteristics**: Likely show high Annual Income, high Website Visits/App Sessions, many Previous Orders, and high Year 1 Spending, leading to high predicted Future Spending.
 
-*   **Which customers should receive premium offers?**
+* #### Which customers should receive premium offers?
     *   **Segment B** customers are ideal for premium offers. Their high engagement and past spending indicate a willingness to invest in high-quality products or exclusive services. Focus on retaining their loyalty and increasing their share of wallet.
 
 *   **Which customers should be targeted for upselling?**
