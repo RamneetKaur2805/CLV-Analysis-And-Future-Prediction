@@ -410,7 +410,7 @@ Based on the customer segmentation and the future spending predictions, here are
 ## Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/marketing-budget-optimization.git
+git clone (https://github.com/RamneetKaur2805/CLV-Analysis-And-Future-Prediction)
 ```
 
 ---
@@ -444,7 +444,7 @@ jupyter notebook
 Open:
 
 ```bash
-Marketing_Budget_optimisation.ipynb
+CLV_Analysis_And_Future_Spending_Prediction.ipynb
 ```
 
 ---
